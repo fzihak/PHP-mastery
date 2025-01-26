@@ -46,4 +46,3 @@ Open for suggestions and improvements. Feel free to open issues or submit PRs.
 
 ### 📜 License
 MIT License
-```
